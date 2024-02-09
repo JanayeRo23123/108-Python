@@ -34,7 +34,7 @@ else:
 
 print("you're an adult") if age > 21 else print("you're a minor")
 #for(i=0; i<numbers; i++)
-#  let number = numbers[
+#  let number = numbers
 #      console.log(number)
 #JS comparative
 #fuction(){
